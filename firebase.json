@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site":"visual-verilog",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
